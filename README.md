@@ -37,13 +37,13 @@ Billing-system-backend/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_BACKEND_REPOSITORY_URL
+git clone https://github.com/bunty2604/parking-management-backend/
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd Billing-system-backend
+cd parking-management-backend
 ```
 
 ### 3. Install dependencies
